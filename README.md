@@ -1,11 +1,11 @@
-![MasterHead]("C:\Users\divya\Downloads\github-header-image.png")
+![github-header-image](https://github.com/divyamD13/divyamD13/assets/130211089/62a4dddf-9952-4633-8c51-34b707fd2a89)
 
-<h1 align="center">Hello, I'm Divyam Divesh</h1>
+
 <h3 align="center">I am a passionate Flutter developer and software development enthusiast, dedicated to creating innovative and efficient applications with a keen eye for detail and a drive for continuous learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyamd13&label=Profile%20views&color=0e75b6&style=flat" alt="divyamd13" /> </p>
 
-- 🔭 I’m currently working on **Android**
+- 🔭 I’m currently working on **Flutter**
 
 - 🌱 I’m currently learning **FireBase,Node.js**
 

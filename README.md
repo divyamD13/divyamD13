@@ -1,9 +1,7 @@
-#![github-header-image]()
-
 <h1 align="center">Hi 👋, I'm Divyam Divesh</h1>
 <h3 align="center">Passionate Full-Stack & Flutter Developer Crafting Scalable Apps with Clean Code 🚀</h3>
 
-- 🌱 I’m currently learning **NodeJS,**
+- 🌱 I’m currently learning **NodeJS,ReactJS,NextJS**
 
 - 💬 Ask me about **Flutter**
 
@@ -15,7 +13,6 @@
 <a href="https://linkedin.com/in/divyam divesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divyam divesh" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/23273731" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23273731" height="30" width="40" /></a>
 <a href="https://instagram.com/divyamd_13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="divyamd_13" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/storm breaker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="storm breaker" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/divyamdivesh13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="divyamdivesh13" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/stormd_13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="stormd_13" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/divyamd_13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="divyamd_13" height="30" width="40" /></a>

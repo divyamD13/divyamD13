@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Divyam Divesh</h1>
 <h3 align="center">Passionate Full-Stack & Flutter Developer Crafting Scalable Apps with Clean Code 🚀</h3>
 
-- 🌱 I’m currently learning **NodeJS,ReactJS,NextJS**
+- 🌱 I’m currently learning **NodeJS, ReactJS, NextJS.**
 
 - 💬 Ask me about **Flutter**
 
